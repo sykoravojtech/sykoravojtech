@@ -32,7 +32,7 @@ When I’m not coding, you can usually find me travelling, cooking, or playing s
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sykoravojtech&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=sykoravojtech,portfolio,projects,template_repo,gym,RPH,OPT,ZUI,BioVis_food&hide=SCSS)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sykoravojtech&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=sykoravojtech&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=sykoravojtech&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 
 
 
