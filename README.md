@@ -1,7 +1,8 @@
 <img src="github_banner.png" alt="GitHub Banner" width="100%" />
 
 <br>I'm a passionate developer wrapping up my Master's in Machine Learning at the University of Tübingen. My current research involves building a multimodal pipeline for graph extraction and analysis of electric schematics, but I also dabble in Kaggle projects like disease detection from images. I’ve lived in 3 countries (for over a year each) and am eager to learn more wherever I go.<br><br>Quick Facts<br>💡 Focus: Computer Vision & AI<br>💼 Experience: Worked with C, C++, Java, Kotlin, Haskell, Racket, HTML/CSS/JS, LaTeX, Bash, and more (but these days I mostly stick to Python)<br>🚀 Flexibility: I learn quickly and adapt rapidly to new tech stacks<br>🌍 Location: Actively seeking opportunities in Germany (preferably Baden-Württemberg)<br>🌱 Side Projects: Kaggle competitions, exploring advanced DL models for medical imaging, and more<br><br>
-When I’m not coding, you can usually find me travelling, cooking, or playing sports. If you’re in the AI/ML space—or just want to chat about technology, living abroad, or exciting new ideas—feel free to reach out!<br><br>Check out my LinkedIn for more details, or drop me a message. Let’s build something awesome together! 🚀
+When I’m not coding, you can usually find me travelling, cooking, or playing sports. If you’re in the AI/ML space—or just want to chat about technology, living abroad, or exciting new ideas—feel free to reach out!<br><br>
+Check out my [Web Portfolio](https://sykoravojtech.github.io/portfolio/) or [LinkedIn](https://linkedin.com/in/sykoravojtech) for more details, or drop me a message. Let’s build something awesome together! 🚀
 
 
 ## 🌐 Socials:
