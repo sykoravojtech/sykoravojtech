@@ -13,10 +13,10 @@ When I’m not building businesses or developing AI, you can usually find me tra
 Check out my [LinkedIn](https://linkedin.com/in/sykoravojtech) for more details, or drop me a message. Let’s build something awesome together! 🚀
 
 **Quick Facts**  
-💡 **Focus:** Robotics · Computer Vision · Physical AI · Startups 
-💼 **Experience:** Python, C/C++, Kotlin, Java, Bash, and beyond  
-⚙️ **Mindset:** Founder-driven, systems thinking, hands-on prototyping  
-🌍 **Location:** Germany / Czech Republic
+💡 **Focus:** Robotics · Computer Vision · Physical AI · Startups <br>
+💼 **Experience:** Python, C/C++, Kotlin, Java, Bash, and beyond  <br>
+⚙️ **Mindset:** Founder-driven, systems thinking, hands-on prototyping  <br>
+🌍 **Location:** Germany / Czech Republic<br>
 🤝 **Let’s build something that moves - literally. Message me if you want in.**
 
 ## 🌐 Socials:
