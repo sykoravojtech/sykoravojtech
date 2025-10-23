@@ -1,9 +1,23 @@
 <img src="github_banner.png" alt="GitHub Banner" width="100%" />
 
-<br>I'm a passionate developer wrapping up my Master's in Machine Learning at the University of Tübingen. My current research involves building a multimodal pipeline for graph extraction and analysis of electric schematics, but I also dabble in Kaggle projects like disease detection from images. I’ve lived in 3 countries and am eager to learn more wherever I go.<br><br>Quick Facts<br>💡 Focus: Computer Vision & AI<br>💼 Experience: Worked with C, C++, Java, Kotlin, Haskell, Racket, HTML/CSS/JS, LaTeX, Bash, and more (but these days I mostly stick to Python)<br>🚀 Flexibility: I learn quickly and adapt rapidly to new tech stacks<br>🌍 Location: Actively seeking opportunities in Germany (preferably Baden-Württemberg)<br>🌱 Side Projects: Kaggle competitions, exploring advanced DL models for medical imaging, and more<br><br>
-When I’m not coding, you can usually find me travelling, cooking, or playing sports. If you’re in the AI/ML space or just want to chat about technology, living abroad, or exciting new ideas feel free to reach out!<br><br>
-Check out my [Web Portfolio](https://sykoravojtech.github.io/portfolio/) or [LinkedIn](https://linkedin.com/in/sykoravojtech) for more details, or drop me a message. Let’s build something awesome together! 🚀
+I’m a **founder** building at the intersection of **Robotics and AI**, leading a team developing the next generation of **embodied intelligence**.  
+With a background in **Machine Learning (M.Sc.)**, venture experience, and hands-on engineering, I bridge **technical execution, product vision, and strategic growth** — turning research-level AI into scalable physical systems.  
 
+Our mission: to automate the physical world through **self-learning, intelligent robots** that seamlessly integrate perception, motion, and decision-making.  
+
+I’ve lived in three countries, worked across startups and VC, and thrive where **technology meets business and bold ideas become real**.  
+If you’re excited about **embodied AI**, **autonomous systems**, or joining a team redefining how robots learn — let’s connect. 🚀  
+<br>
+
+When I’m not building businesses or developing AI, you can usually find me travelling, cooking, or playing sports. If you’re in the AI/ML space or just want to chat about technology, living abroad, or exciting new ideas feel free to reach out!<br><br>
+Check out my [LinkedIn](https://linkedin.com/in/sykoravojtech) for more details, or drop me a message. Let’s build something awesome together! 🚀
+
+**Quick Facts**  
+💡 **Focus:** Robotics · Computer Vision · Physical AI · Startups 
+💼 **Experience:** Python, C/C++, Kotlin, Java, Bash, and beyond  
+⚙️ **Mindset:** Founder-driven, systems thinking, hands-on prototyping  
+🌍 **Location:** Germany / Czech Republic
+🤝 **Let’s build something that moves - literally. Message me if you want in.**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sykoravojtech) 
