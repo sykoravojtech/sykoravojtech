@@ -10,7 +10,7 @@ If you’re excited about **embodied AI**, **autonomous systems**, or joining a 
 <br>
 
 When I’m not building businesses or developing AI, you can usually find me travelling, cooking, or playing sports. If you’re in the AI/ML space or just want to chat about technology, living abroad, or exciting new ideas feel free to reach out!<br><br>
-Check out my [LinkedIn](https://linkedin.com/in/sykoravojtech) for more details, or drop me a message. Let’s build something awesome together! 🚀
+Check out my [LinkedIn](https://linkedin.com/in/sykoravojtech) & [Portfolio](https://sykoravojtech.github.io/portfolio/) for more details, or drop me a message. Let’s build something awesome together! 🚀
 
 **Quick Facts**  
 💡 **Focus:** Robotics · Computer Vision · Physical AI · Startups <br>
