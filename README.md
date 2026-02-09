@@ -16,7 +16,7 @@ Check out my [LinkedIn](https://linkedin.com/in/sykoravojtech) & [Portfolio](htt
 💡 **Focus:** Computer Vision · AI · Startups <br>
 💼 **Experience:** Python, C/C++, Kotlin, Java, Bash, and beyond  <br>
 ⚙️ **Mindset:** Founder-driven, systems thinking, hands-on prototyping  <br>
-🌍 **Location:** Germany / Czech Republic<br>
+🌍 **Location:** Czech Republic (Prague)<br>
 🤝 **Let’s build something that moves - literally. Message me if you want in.**
 
 ## 🌐 Socials:
