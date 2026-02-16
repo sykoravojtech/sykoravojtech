@@ -1,23 +1,22 @@
 <img src="github_banner.png" alt="GitHub Banner" width="100%" />
 
-I’m a **founder** building at the intersection of **Robotics and AI**, leading a team developing the next generation of **embodied intelligence**.  
-With a background in **Machine Learning (M.Sc.)**, venture experience, and hands-on engineering, I bridge **technical execution, product vision, and strategic growth** — turning research-level AI into scalable physical systems.  
+For the past 5 years, I have worked for research labs and startups across AI, robotics, transportation, and software. Lately I focused on AI Agents, LLMs and Computer Vision and thrive on solving complex challenges with practical and innovative solutions.
 
-Our mission: to automate the physical world through **self-learning, intelligent robots** that seamlessly integrate perception, motion, and decision-making.  
+Now im building AI products from ideas to scale at a VC while guiding with technical due dilligence.
 
-I’ve lived in three countries, worked across startups and VC, and thrive where **technology meets business and bold ideas become real**.  
-If you’re excited about **embodied AI**, **autonomous systems**, or joining a team redefining how robots learn — let’s connect. 🚀  
+But beyond the tech: I’m a curious, creative problem-solver who loves to travel, play sports and make some delicious food.
+
+Let’s build something impactful and have some fun while we’re at it. 🚀  
 <br>
 
-When I’m not building businesses or developing AI, you can usually find me travelling, cooking, or playing sports. If you’re in the AI/ML space or just want to chat about technology, living abroad, or exciting new ideas feel free to reach out!<br><br>
 Check out my [LinkedIn](https://linkedin.com/in/sykoravojtech) & [Portfolio](https://sykoravojtech.github.io/portfolio/) for more details, or drop me a message. Let’s build something awesome together! 🚀
 
 **Quick Facts**  
-💡 **Focus:** Computer Vision · AI · Startups <br>
+💡 **Focus:** AI Agents · Computer Vision · Startups <br>
 💼 **Experience:** Python, C/C++, Kotlin, Java, Bash, and beyond  <br>
 ⚙️ **Mindset:** Founder-driven, systems thinking, hands-on prototyping  <br>
-🌍 **Location:** Czech Republic (Prague)<br>
-🤝 **Let’s build something that moves - literally. Message me if you want in.**
+🌍 **Location:** Czech Republic (Prague) <br>
+🤝 **Let’s build something extraordinary!**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sykoravojtech) 
@@ -49,7 +48,7 @@ Check out my [LinkedIn](https://linkedin.com/in/sykoravojtech) & [Portfolio](htt
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sykoravojtech&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=sykoravojtech,portfolio,projects,template_repo,gym,RPH,OPT,ZUI,BioVis_food&hide=SCSS)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sykoravojtech&theme=dark&hide_border=false)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api?username=sykoravojtech&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+![](https://github-readme-stats.vercel.app/api?username=sykoravojtech&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
 
