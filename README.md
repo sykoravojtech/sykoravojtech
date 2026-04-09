@@ -18,7 +18,7 @@ Previously founded a robotics & AI startup (computer vision for automated shelf 
 Power user of AI-assisted development - I use agentic tools daily to ship faster and build what would otherwise take a full team:
 - **Claude Code** — primary development partner, multi-agent orchestration with subagents, context management across 1M token sessions
 - **GSD framework** — structured planning, phased execution, verification loops
-- **OpenAI Codex** — async task execution, parallel workstreams, code review
+- **OpenAI Codex** — code review, second opinion
 - Prompt engineering, memory management, tool orchestration (MCP servers), human-in-the-loop workflows
 
 ### What I care about
