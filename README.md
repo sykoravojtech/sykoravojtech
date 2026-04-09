@@ -1,4 +1,4 @@
-<img src="github_banner.png" alt="GitHub Banner" width="100%" />
+<!-- <img src="github_banner.png" alt="GitHub Banner" width="100%" /> -->
 
 AI engineer who builds products end-to-end — from architecture and data pipelines to search systems and frontends. I don't just implement features, I shape what gets built and own the outcome.
 
