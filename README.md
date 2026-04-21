@@ -8,6 +8,13 @@ Previously founded a robotics & AI startup (computer vision for automated shelf 
 
 **MSc Machine Learning** (University of Tübingen, DAAD full scholarship) · **BSc AI** (Czech Technical University)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sykoravojtech) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sykoravojtech) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17646343) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sykoravojtech01@gmail.com)
+[![Website](https://img.shields.io/badge/vojtechsykora.com-000000?style=flat&logoColor=white)](https://vojtechsykora.com/)
+
+
 ### What I work with
 - **AI/ML:** PyTorch, OpenCV, LLM pipelines (structured extraction, RAG, intent parsing), agentic AI, computer vision (detection, segmentation, VLMs)
 - **Backend:** Python, FastAPI, PostgreSQL, pgvector, vector similarity search, data pipelines
@@ -32,11 +39,3 @@ Power user of AI-assisted development - I use agentic tools daily to ship faster
 - **Automated shelf-restocking system** (Startup) — Computer vision + grasping pipeline for supermarket robotics, secured LOIs with REWE Digital
 - **Agentic LLM prototype** (synthavo) — Multimodal RAG system built independently from concept to PoC, adopted by client for production scaling
 - **Multi-modal schematic analysis** (MSc thesis) — Enhanced CV pipeline for extracting semantics from electronics schematics, +7.3% mAP improvement, independently built dataset
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sykoravojtech) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sykoravojtech) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17646343) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sykoravojtech01@gmail.com)
-[![Website](https://img.shields.io/badge/vojtechsykora.com-000000?style=flat&logoColor=white)](https://vojtechsykora.com/)
