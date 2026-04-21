@@ -9,10 +9,9 @@ Previously founded a robotics & AI startup (computer vision for automated shelf 
 **MSc Machine Learning** (University of Tübingen, DAAD full scholarship) · **BSc AI** (Czech Technical University)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sykoravojtech) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sykoravojtech) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17646343) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sykoravojtech01@gmail.com)
 [![Website](https://img.shields.io/badge/vojtechsykora.com-000000?style=flat&logoColor=white)](https://vojtechsykora.com/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sykoravojtech01@gmail.com)
+
 
 
 ### What I work with
