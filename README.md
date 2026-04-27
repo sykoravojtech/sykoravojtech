@@ -6,7 +6,7 @@ Currently building AI-powered data intelligence products at **Miton** - sole eng
 
 Previously founded a robotics & AI startup (computer vision for automated shelf restocking, negotiated with REWE Digital), built an agentic LLM prototype that got scaled into production, and did CV research at FZI and AI planning research with the US Air Force Research Lab.
 
-**MSc Machine Learning** (University of Tübingen, DAAD full scholarship) · **BSc AI** (Czech Technical University)
+**MSc Machine Learning** (University of Tübingen, DAAD full scholarship) · **Bc CS+AI** (Czech Technical University)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sykoravojtech) 
 [![Website](https://img.shields.io/badge/vojtechsykora.com-000000?style=flat&logoColor=white)](https://vojtechsykora.com/)
